@@ -11,11 +11,12 @@
 
 1. **Skills Analysis**:<br/>
    **Current skills**:
-
 - Proficient in writing **semantic HTML**, with a strong understanding of **SEO best practices** to ensure accessible and optimized web content.
 - Skilled in using **CSS** to design responsive, visually engaging, and dynamic layouts.
 - Comfortable using development tools such as **GitHub, Visual Studio Code**, and the **terminal** to streamline workflows and enhance productivity.
-- Highly motivated and committed to continuous learning, with a keen interest in expanding proficiency across multiple **programming languages and technologies**.
+- Highly motivated and committed to continuous learning, with a keen interest in expanding proficiency across multiple **programming languages and technologies**.<br/>
+<br/>
+
   **Skills to develop and improve**:
 - Strengthen version control practices by consistently incorporating Git into all coding projects and expanding proficiency with advanced
   **Git commands**.
@@ -50,27 +51,20 @@
 - **Coding Teacher**: Your interest in teaching coding reflects my willingness to help others. Teaching also reinforces my own knowledge and opens up opportunities for community involvement or even side-income as a mentor or instructor.
 
 2. **Alignment with Personal Profile**:<br/>
-   **Skills Alignment**<br/>
-   My skills directly support roles such as:
-
+   <br/>
+   **My skills directly support roles such as**:<br/>
 - Front-End and Full Stack Developer – My foundation in front-end technologies and growing back-end knowledge is perfect for full stack roles.
 - Freelance Developer – I'll build practical skills and tools (e.g., animations, CMS integration, UX design) that are highly sought-after in freelance work.
 - App Developer – As I become comfortable with interactive design and animations, I'm well-positioned to transition into mobile or web app development.<br/>
-  **Interest Alignment**<br/>
-- I'm naturally drawn to visually engaging and interactive design, which explains my enthusiasm to learn and get better at CSS animations, GSAP, and UI/UX.
-- I'm also seeking to learn back-end technologies, explore game development, and understand the applications of AI in software.
-- I'm excited about building real-world projects, gaining practical experience, and applying my learning to tangible outcomes.
-  This align with roles like:
+<br/>
+
+  **My interests align with roles like**:<br/>
 - Software Developer with AI, where innovation meets coding.
 - Game Developer, which allows for both storytelling and technical skill.
 - Freelance or Full Stack Developer, where variety and problem-solving are daily challenges I enjoy.<br/>
-  **Values Alignment**<br/>
-  Values that matter to me:
-- Respectful collaboration and healthy communication – ideal for team-based development roles.
-- Diligence and efficiency – fitting for high-performance environments and client-based freelance work.
-- Flexibility – a value that supports both freelancing and remote/international work environments.
-- Continuous learning and professional growth – perfectly aligned with tech’s ever-evolving landscape.<br/>
-  These values deeply resonate with:<br/>
+<br/>
+
+  **My values deeply resonate with**:<br/>
 - Freelance work, which offers autonomy, adaptability, and creative freedom.
 - Tech teams in Japan, where discipline, collaboration, and growth are highly valued.
 - Mentorship or teaching roles, where empathy, clarity, and dedication to others’ growth are essential.
